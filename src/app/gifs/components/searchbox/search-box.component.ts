@@ -14,7 +14,7 @@ import { GifsService } from '../../services/gifs.service';
     `
 })
 
-export class searchBoxComponent{
+export class SearchBoxComponent{
 
     //Toma una referencia local
     //@viewChildren array con todos los elementos html
